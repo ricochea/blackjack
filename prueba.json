@@ -1,0 +1,20 @@
+{
+    "orderItems":[
+
+        {
+            "quantity":2,
+            "seller":"1",
+            "id":"280"
+        },
+        {
+            "quantity":1,
+            "seller":"1",
+            "id":"310"
+        },
+        {
+            "quantity":1,
+            "seller":"1",
+            "id":"328"
+        }
+    ]
+} 
